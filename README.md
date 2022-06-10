@@ -1,4 +1,4 @@
 # Smart-Process-Analytics
-It contains the dataset of the loan process Of Dutch Financial Institute.
-We have analysed the data found the points at where the process was taking longer time period.
-In the second part we have to identitfy the loops and eliminate those loops initally cleaning the data and keep the useful data.
+It contains the dataset of the loan process from the Dutch Financial Institute.
+We have analyzed the data and found the points where the process was taking a longer period.
+In the second part, we have to identify the loops and eliminate those loops initially cleaning the data and keeping the useful data.
